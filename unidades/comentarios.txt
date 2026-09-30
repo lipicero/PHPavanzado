@@ -1,0 +1,15 @@
+
+<article class="comentario">
+	<p><strong>Fecha y hora:</strong> 03/09/2026 20:28:17</p>
+	<p><strong>Nombre:</strong> Sergio</p>
+	<p><strong>Apellido:</strong> MDB</p>
+	<p><strong>Mail:</strong> sergiomdb@gmail</p>
+	<p><strong>Comentario:</strong> Lo recomiendo</p>
+</article>
+<article class="comentario">
+	<p><strong>Fecha y hora:</strong> 30/08/2026 21:17:22</p>
+	<p><strong>Nombre:</strong> Marcos</p>
+	<p><strong>Apellido:</strong> Klug</p>
+	<p><strong>Mail:</strong> marcos@klug.com</p>
+	<p><strong>Comentario:</strong> Muy bueno</p>
+</article>
